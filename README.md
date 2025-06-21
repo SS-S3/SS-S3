@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -33,41 +33,38 @@
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### 💻 Languages
+### 💻 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🛠️ Tools & Platforms
+</td>
+<td align="center" width="33%">
+
+### 🛠️ **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Journey
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SS-S3&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="Soumya's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SS-S3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-S3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" />
-</div>
-
----
-
-## 🎯 Current Focus
+## 🎯 Current Focus Areas
 
 <div align="center">
 
@@ -75,18 +72,18 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100px" height="100px"/>
-<br><strong>Full-Stack Development</strong>
-<br><sub>Building end-to-end solutions</sub>
+<br><strong>🌐 Full-Stack Development</strong>
+<br><sub>Building end-to-end solutions with modern frameworks</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px" height="100px"/>
-<br><strong>Problem Solving</strong>
-<br><sub>Data Structures & Algorithms</sub>
+<br><strong>🧩 Problem Solving</strong>
+<br><sub>Mastering Data Structures & Algorithms</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100px" height="100px"/>
-<br><strong>Open Source</strong>
-<br><sub>Ready to contribute!</sub>
+<br><strong>🤝 Open Source</strong>
+<br><sub>Ready to contribute to meaningful projects</sub>
 </td>
 </tr>
 </table>
@@ -95,37 +92,56 @@
 
 ---
 
-## 🌟 Learning Path
+## 📊 GitHub Stats & Activity
 
+### 🔥 **Streak & Overview**
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SS-S3&theme=dark&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Soumya's GitHub Streak" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SS-S3&theme=react-dark&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="100%">
+### 📈 **Detailed Statistics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SS-S3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-S3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" />
+</div>
 
+### 🐍 **Contribution Activity**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
 
-## 🎨 Fun Visuals
+## 🌟 Journey & Goals
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Let's%20Code%20Together!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🔥+Building+Skills+One+Commit+at+a+Time;💡+Transforming+Ideas+into+Reality;🚀+Ready+for+My+Next+Challenge;🌟+Every+Expert+Was+Once+a+Beginner" alt="Journey SVG" />
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## 📈 Coding Activity
+### 🎓 **Currently Learning**
+- Advanced React Patterns
+- Backend Architecture
+- System Design Principles
+- Clean Code Practices
 
-<div align="center">
+</td>
+<td align="center" width="50%">
 
-[![Soumya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SS-S3&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🎯 **Upcoming Goals**
+- First Open Source Contribution
+- Full-Stack Project Portfolio
+- Technical Blog Writing
+- Community Engagement
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -143,7 +159,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=💡+Ready+to+Learn+%26+Grow;🚀+Let's+Build+Something+Amazing;🌟+Every+Expert+Was+Once+a+Beginner" alt="Typing SVG" />
+<em><b>🚀 Ready to learn, grow, and contribute! Let's build something amazing together! 🌟</b></em>
 
 </div>
 
@@ -158,13 +174,21 @@
 
 ---
 
+## 🎨 Fun Visual End
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Let's%20Code%20Together!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+😊;Happy+Coding!+💻✨" alt="Thanks SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
 <!---
-SS-S3/SS-S3 is a ✨ special ✗ repository because its `README.md` (this file) appears on your GitHub profile.
+SS-S3/SS-S3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
