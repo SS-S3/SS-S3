@@ -94,10 +94,7 @@
 
 ## 📊 GitHub Stats & Activity
 
-### 🔥 **Streak & Overview**
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SS-S3&theme=dark&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Soumya's GitHub Streak" />
-</div>
+
 
 ### 📈 **Detailed Statistics**
 <div align="center">
