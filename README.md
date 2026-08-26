@@ -50,9 +50,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SS-S3&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7)](https://github.com/SS-S3/REPO_NAME_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SS-S3&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7)](https://github.com/SS-S3/REPO_NAME_2)
-
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=SS-S3&repo=ResearchAgent&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7)](https://github.com/SS-S3/ResearchAgent)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=SS-S3&repo=ALLELE-LANDING&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7)](https://github.com/SS-S3/ALLELE-LANDING)
 </div>
 
 <br/>
